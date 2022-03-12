@@ -2,7 +2,7 @@
 :superhero: Rabemanalina Jean Marie... :feelsgood:<br>
 :arrow_forward: Développeur Web et Web Mobile....:vibration_mode:<br>
 :arrow_forward: Début du Formation Développeur d'application - JavaScript React sur OpenClassRooms  :electron:<br><br>
-[x]:one:-Prenez en main votre formation front-end : **Validé ok** :heavy_check_mark: :+1: <br> 
+[x] :one:-Prenez en main votre formation front-end : **Validé ok** :heavy_check_mark: :+1: <br> 
 :two:-Transformez une maquette en site web avec HTML & CSS : **Validé ok** :heavy_check_mark:  :+1: --> https://vianey-jean.github.io/Rabe.Booki-github.io/ :copyright:<br>
 :three:-Dynamisez une page web avec des animations CSS : **En Attente de la validation du Jury** :heavy_check_mark: --> https://vianey-jean.github.io/Jean.RABEMANALINA_3_13012022/ :copyright:<br>
 :four:-Créez une landing page avec Javascript :arrow_right:: **Début du Projet** :clock12: :heavy_check_mark::<br>
