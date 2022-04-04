@@ -5,7 +5,7 @@
 :one:-Prenez en main votre formation front-end : **Validé ok** :heavy_check_mark: :+1: <br> 
 :two:-Transformez une maquette en site web avec HTML & CSS : **Validé ok** :heavy_check_mark:  :+1: --> https://vianey-jean.github.io/Rabe.Booki-github.io/ :copyright:<br>
 :three:-Dynamisez une page web avec des animations CSS : **Validé ok** :heavy_check_mark: :+1: --> https://vianey-jean.github.io/Jean.RABEMANALINA_3_13012022/ :copyright:<br><br>
-:four:-Créez une landing page avec Javascript :arrow_right:: **Projet en cours** :clock12: :heavy_check_mark: --> https://vianey-jean.github.io/GameOn-website-FR/:<br><br>
+:four:-Créez une landing page avec Javascript :arrow_right:: **En preparation soutenance** :clock12: :heavy_check_mark: --> https://vianey-jean.github.io/GameOn-website-FR/:<br><br>
 :five:-Testez vos compétences : les langages du Web :PROJET À COMPLÉTER :hourglass:<br>
 :six:-Créez un site accessible pour une plateforme de photographes :PROJET À COMPLÉTER :hourglass:<br>
 :seven:-Développez un algorithme de recherche en JavaScript :PROJET À COMPLÉTER :hourglass:<br>
