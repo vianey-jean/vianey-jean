@@ -2,6 +2,8 @@
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
 
  😃 Je me présente **Jean_Marie_RABEMANALINA**, passionné d'informatique et plus particulièrement du développement web et mobile !
+ 
+ 🔗 Et/ou visiter mon " **CV** "  à cette : [adresse](https://vianey-jean.github.io/CV_2021Github.io/).
 
 🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours " **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [adresse](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
 
