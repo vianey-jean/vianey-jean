@@ -1,6 +1,6 @@
 
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
- **OpenClassrooms | Parcours développeur Front-End :**
+
  😃 Je me présente **Jean_Marie_RABEMANALINA**, passionné d'informatique et plus particulièrement du développement web et mobile !
 
 🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours "**developpeur-dapplication-javascript-react**" chez OpenClassrooms disponible à cette [adresse](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
