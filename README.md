@@ -1,6 +1,10 @@
 
-:superhero: Rabemanalina Jean Marie... :feelsgood:<br>
+🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
  **OpenClassrooms | Parcours développeur Front-End :**
+ 😃 Je me présente **Jean_Marie_RABEMANALINA**, passionné d'informatique et plus particulièrement du développement web et mobile !
+
+🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours "**developpeur-dapplication-javascript-react**" chez OpenClassrooms disponible à cette [adresse](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
+
 - [x] :one: [Prenez en main votre formation front-end](https://Présentation.re "ok") :heavy_check_mark: :+1: 
 - [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS](https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki") :heavy_check_mark: :+1:
 - [x] :three: [Ohmyfood! - Dynamisez une page web avec des animations CSS](https://vianey-jean.github.io/Jean.RABEMANALINA_3_13012022/ "Ohmyfood!") :heavy_check_mark: :+1:
