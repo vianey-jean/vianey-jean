@@ -19,8 +19,8 @@
  
  
  **OpenClassrooms | Parcours développeur Front-End :**
-- [x] :one: [Prenez en main votre formation front-end](https://Présentation.re "ok")
-- [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS](https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki")
+- [x] :one: [Prenez en main votre formation front-end] :heavy_check_mark: :+1:(https://Présentation.re "ok")
+- [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS] :heavy_check_mark: :+1:(https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki")
 - [x] :three: [Ohmyfood! - Dynamisez une page web avec des animations CSS](https://vianey-jean.github.io/Jean.RABEMANALINA_3_13012022/ "Ohmyfood!")
 - [x] :four: [GameOn - Créez une landing page avec Javascript](https://vianey-jean.github.io/GameOn-website-FR/ "GameOn")
 - [x] :five: [CodinGame - Testez vos compétences : les langages du Web](https://codingame.com "ok")
