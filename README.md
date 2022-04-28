@@ -12,7 +12,7 @@
 - [x] :three: [Ohmyfood! - Dynamisez une page web avec des animations CSS](https://vianey-jean.github.io/Jean.RABEMANALINA_3_13012022/ "Ohmyfood!") :heavy_check_mark: :+1:
 - [x] :four: [GameOn - Créez une landing page avec Javascript](https://vianey-jean.github.io/GameOn-website-FR/ "GameOn") :heavy_check_mark: :+1:
 - [x] :five: [CodinGame - Testez vos compétences : les langages du Web](https://codingame.com "ok") :heavy_check_mark: :+1:
-- [x] :six: [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye") **Projet en Cours** :heavy_check_mark:
+- [x] :six: [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye") ==> **Projet en Cours** :heavy_check_mark:
 - [ ] :seven: [Les petits plats - Développez un algorithme de recherche en JavaScript]:PROJET À COMPLÉTER :hourglass: 
 - [ ] :eight: [CodinGame - Testez vos compétences : les algorithmes en JavaScript]:PROJET À COMPLÉTER :hourglass: 
 - [ ] :nine: [Billed - Débuggez et testez un SaaS RH]:PROJET À COMPLÉTER :hourglass: 
