@@ -26,7 +26,7 @@
 <br/>
 ** Connect with me:**
 <br/>
--[x] [Profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)<br/>
+- [x] :one: [Prenez en main votre formation front-end](Présentation "ok") :heavy_check_mark: :+1: **Validé**
 -[x] [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)<br/>
 -[x] [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye")
 <br/>
