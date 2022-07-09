@@ -4,6 +4,19 @@
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
 
  😃 Je me présente **Jean_Marie_RABEMANALINA**, passionné d'informatique et plus particulièrement du développement web et mobile !
+ <br/>
+ **Languages and Tools:** 
+ <br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
+
+<br/>
+<br/>
+<br/>
  
  🔗 Et/ou visiter mon " **CV** "  à cette : [adresse](https://vianey-jean.github.io/CV_2021Github.io/).
 
