@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Slt+Moi%2C+C'est+Jean+RABEMANALINA+from+FR;J'apprend+le+react+js +sur+OpenClassRooms)](https://git.io/typing-svg)
+<!--
 
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
 
