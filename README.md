@@ -24,7 +24,7 @@
 
 <br/>
 <br/>
-** Connect with me:
+Connect with me:
 <br/
 <br/>
 - [x] [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
