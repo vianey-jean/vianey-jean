@@ -6,7 +6,7 @@
  😃 Je me présente **Jean_Marie_RABEMANALINA**, passionné d'informatique <br/>et plus particulièrement du développement web et mobile !
  
  <br/>
- **Languages and Tools:** 
+ Languages and Tools:
  
  <br/>
  <br/>
@@ -24,13 +24,12 @@
 
 <br/>
 <br/>
-** Connect with me:**
+** Connect with me:
+<br/
 <br/>
-- [x] :one: [Prenez en main votre formation front-end](Présentation "ok") :heavy_check_mark: :+1: **Validé**
--[x] [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)<br/>
--[x] [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye")
-<br/>
-<br/>
+- [x] [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
+- [x] [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye")
+<br/><br/>
  
  🔗 Et/ou visiter mon " **CV** "  à cette : [adresse](https://vianey-jean.github.io/CV_2021Github.io/).
 
