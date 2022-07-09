@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there%2C+this+is+Phil+H+from+FR;I'm+learning+react+js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Slt+there%2C+this+is+Phil+H+from+FR;I'm+learning+react+js)](https://git.io/typing-svg)
 
 
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
