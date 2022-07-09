@@ -24,6 +24,11 @@
 
 <br/>
 <br/>
+** Connect with me:**
+[Profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
+[profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
+<br/>
+<br/>
  
  🔗 Et/ou visiter mon " **CV** "  à cette : [adresse](https://vianey-jean.github.io/CV_2021Github.io/).
 
