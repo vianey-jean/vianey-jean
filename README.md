@@ -26,8 +26,8 @@
 <br/>
 Connect with me:
 
-- [x] [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
-- [x] [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye")
+- [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
+- [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 - [x] :one: [Prenez en main votre formation front-end](Présentation "ok") :heavy_check_mark: :+1: **Validé**
 - [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS](https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki") :heavy_check_mark: :+1: **Validé**
  
