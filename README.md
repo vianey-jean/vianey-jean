@@ -25,7 +25,8 @@
 <br/>
 <br/>
 ** Connect with me:**
-[Profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
+<br/>
+[Profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)<br/>
 [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 <br/>
 <br/>
