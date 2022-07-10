@@ -23,17 +23,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <br/>
-<br/>
 Connect with me:
 
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 <br/>
-<br/>
 
- 🔗 Et/ou visiter mon " CV " 
- <br/>
- à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
+ 🔗 Et/ou visiter mon " CV " à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
 
 🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours <br/>" **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [Lien](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
 
