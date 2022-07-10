@@ -30,11 +30,12 @@ Connect with me:
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 <br/>
 <br/>
+
  🔗 Et/ou visiter mon " CV " 
  <br/>
- à cette [adresse](https://vianey-jean.github.io/CV_2021Github.io/).
+ à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
 
-🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours <br/>" **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [adresse](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
+🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours <br/>" **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [Lien](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
 
 - [x] :one: [Prenez en main votre formation front-end](Présentation "ok") :heavy_check_mark: :+1: **Validé**
 - [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS](https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki") :heavy_check_mark: :+1: **Validé**
