@@ -42,7 +42,7 @@ Connect with me:
 - [x] :seven: [Les petits plats - Développez un algorithme de recherche en JavaScript](https://vianey-jean.github.io/P07-Les-Petits-Plats-15-05-2022/ "Les Petits Plats") :heavy_check_mark: :+1: **Validé**
 - [x] :eight: [CodinGame - Testez vos compétences : les algorithmes en JavaScript](https://codingame.com "ok") :heavy_check_mark: :+1: **Validé**
 - [x] :nine: [Billed - Débuggez et testez un SaaS RH](https://github.com/vianey-jean/Jean_RABEMANALINA_P09_04-07-2022.git/ "Billed"): En Préparation pour Soutenance  :heavy_check_mark: :+1::hourglass: 
-- [ ] :keycap_ten: [Dev4U- Définissez les besoins pour une app de soutien scolaire]:PROJET À COMPLÉTER :hourglass: 
+- [x] :keycap_ten: [Dev4U- Définissez les besoins pour une app de soutien scolaire]:DEBUT DU PROJET :heavy_check_mark: :+1::hourglass: 
 - [ ] :one::one: [Kasa - Développez une application Web avec React et React Router]:PROJET À COMPLÉTER :hourglass: 
 - [ ] :one::two: SportSee - Développez un tableau de bord d'analytics avec React:PROJET À COMPLÉTER :hourglass: 
 - [ ] :one::three: Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React:PROJET À COMPLÉTER :hourglass: 
