@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Slt+C'est+Jean+RABEMANALINA;Je+suis+Developpeur+Web+et+Web+Mobile;J'apprend+react+js+sur+OpenClassRooms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Slt+C'est+Jean+RABEMANALINA;Je+suis+Developpeur+Web+et+Web+Mobile;J'apprend+react.js+sur+OpenClassRooms)](https://git.io/typing-svg)
 
 
 🦸‍♂️: Rabemanalina Jean Marie Vianey 🦸‍♂️:<br>
@@ -21,6 +21,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jQuery/jQuery.png"></code>
 
 <br/>
 Connect with me:
@@ -41,7 +42,7 @@ Connect with me:
 - [x] :six: [FishEye - Créez un site accessible pour une plateforme de photographes](https://vianey-jean.github.io/Front-End-Fisheye/ "FishEye") :heavy_check_mark: :+1: **Validé**
 - [x] :seven: [Les petits plats - Développez un algorithme de recherche en JavaScript](https://vianey-jean.github.io/P07-Les-Petits-Plats-15-05-2022/ "Les Petits Plats") :heavy_check_mark: :+1: **Validé**
 - [x] :eight: [CodinGame - Testez vos compétences : les algorithmes en JavaScript](https://codingame.com "ok") :heavy_check_mark: :+1: **Validé**
-- [x] :nine: [Billed - Débuggez et testez un SaaS RH](https://github.com/vianey-jean/Jean_RABEMANALINA_P09_04-07-2022.git/ "Billed"): En Préparation pour Soutenance  :heavy_check_mark: :+1::hourglass: 
+- [x] :nine: [Billed - Débuggez et testez un SaaS RH](https://github.com/vianey-jean/Jean_RABEMANALINA_P09_04-07-2022.git/ "Billed"): En Soutenance  :heavy_check_mark: :+1::hourglass: 
 - [x] :keycap_ten: [Dev4U- Définissez les besoins pour une app de soutien scolaire](https://www.figma.com/) :DEBUT DU PROJET :heavy_check_mark: :+1::hourglass: 
 - [ ] :one::one: [Kasa - Développez une application Web avec React et React Router]:PROJET À COMPLÉTER :hourglass: 
 - [ ] :one::two: SportSee - Développez un tableau de bord d'analytics avec React:PROJET À COMPLÉTER :hourglass: 
