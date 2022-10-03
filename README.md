@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Slt+C'est+Jean+RABEMANALINA;Je+suis+Developpeur+Web+et+Web+Mobile;J'apprend+react.js+sur+OpenClassRooms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+m'appelle+Jean+Marie+RABEMANALINA;Je+suis+un+D%C3%A9veloppeur+Web+...;Web+Mobile+avec+Afpar+R%C3%A9union++2019;J'apprend+React.js+Pour+Front-end;Avec+OpenClassRooms+en+2022)](https://git.io/typing-svg)
 
 
 🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
