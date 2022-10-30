@@ -50,7 +50,7 @@ Connect with me:
 - [x] :nine: [Billed - Débuggez et testez un SaaS RH](https://github.com/vianey-jean/Jean_RABEMANALINA_P09_04-07-2022.git/ "Billed") :heavy_check_mark: :+1: **Validé**
 - [x] :keycap_ten: [Dev4U- Définissez les besoins pour une app de soutien scolaire](https://www.figma.com/) :heavy_check_mark: :+1: **Validé** 
 - [x] :one::one: [Kasa - Développez une application Web avec React et React Router](https://vianey-jean.github.io/jean_rabemanalina_11_kasa/) :heavy_check_mark: :+1: **Validé** 
-- [x] :one::two: [SportSee - Développez un tableau de bord d'analytics avec React](https:///vianey-jean.github.io/sportsee_jean_rabemanalina/): En préparation du soutenance :heavy_check_mark: :+1::hourglass:  
+- [x] :one::two: [SportSee - Développez un tableau de bord d'analytics avec React](https:///vianey-jean.github.io/sportsee_jean_rabemanalina/): En soutenance :heavy_check_mark: :+1::hourglass:  
 - [x] :one::three: [Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/vianey-jean/Jean_Rabemanalina_13_Bank_API):Prise en main le projet :heavy_check_mark: :+1::hourglass: 
 - [ ] :one::four: Wealth Health - Faites passer une librairie jQuery vers React:PROJET À COMPLÉTER :hourglass: 
 
