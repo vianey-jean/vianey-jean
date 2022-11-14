@@ -34,7 +34,6 @@ Connect with me:
 
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
-<br/>
 
 ---
  🔗 Et/ou visiter mon " CV " à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
