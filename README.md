@@ -57,7 +57,7 @@ Connect with me:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=synthwave) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vianey-jean&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vianey-jean/vianey-jean&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!---
