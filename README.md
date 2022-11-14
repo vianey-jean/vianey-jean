@@ -57,7 +57,6 @@ Connect with me:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=synthwave) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vianey-jean)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!---
