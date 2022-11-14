@@ -1,15 +1,12 @@
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EB7F7&width=435&lines=Je+m'appelle+Jean+Marie+RABEMANALINA;Je+suis+un+D%C3%A9veloppeur+Web+...;Web+Mobile+avec+Afpar+R%C3%A9union++2019;J'apprend+React.js+Pour+Front-end;Avec+OpenClassRooms+en+2022)](https://git.io/typing-svg)
-
-
+---
 🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
 
  😃 Je me présente **Jean_Marie_Vianey_RABEMANALINA**, passionné d'informatique <br/>et plus particulièrement du développement web et mobile !
- 
+ ---
  <br/>
  Languages and Tools:
- 
- <br/>
- <br/>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -29,14 +26,14 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+---
 <br/>
 Connect with me:
 
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 <br/>
-
+---
  🔗 Et/ou visiter mon " CV " à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
 
 🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours <br/>" **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [Lien](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
@@ -55,7 +52,10 @@ Connect with me:
 - [x] :one::two: [SportSee - Développez un tableau de bord d'analytics avec React](https:///vianey-jean.github.io/sportsee_jean_rabemanalina/) :heavy_check_mark: :+1: **Validé** 
 - [x] :one::three: [Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/vianey-jean/Jean_Rabemanalina_13_Bank_API) Projet en cours :heavy_check_mark: :+1::hourglass: 
 - [ ] :one::four: Wealth Health - Faites passer une librairie jQuery vers React: PROJET À COMPLÉTER :hourglass: 
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StephaneLi&show_icons=true&theme=merko) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneLi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+---
 <!---
 vianey-jean/vianey-jean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
