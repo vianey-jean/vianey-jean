@@ -56,7 +56,8 @@ Connect with me:
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=merko) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true)
 
 ---
 
