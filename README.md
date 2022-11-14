@@ -55,8 +55,8 @@ Connect with me:
 - [ ] :one::four: Wealth Health - Faites passer une librairie jQuery vers React: PROJET À COMPLÉTER :hourglass: 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=merko) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=synthwave) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 ---
 
