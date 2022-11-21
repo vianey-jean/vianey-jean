@@ -51,9 +51,8 @@ Connect with me:
 - [x] :keycap_ten: [Dev4U- Définissez les besoins pour une app de soutien scolaire](https://www.figma.com/) :heavy_check_mark: :+1: **Validé** 
 - [x] :one::one: [Kasa - Développez une application Web avec React et React Router](https://vianey-jean.github.io/jean_rabemanalina_11_kasa/) :heavy_check_mark: :+1: **Validé** 
 - [x] :one::two: [SportSee - Développez un tableau de bord d'analytics avec React](https:///vianey-jean.github.io/sportsee_jean_rabemanalina/) :heavy_check_mark: :+1: **Validé** 
-- [x] :one::three: [Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/vianey-jean/Jean_Rabemanalina_13_Bank_API) Projet en cours :heavy_check_mark: :+1::hourglass: 
-- [ ] :one::four: Wealth Health - Faites passer une librairie jQuery vers React: PROJET À COMPLÉTER :hourglass: 
-
+- [x] :one::three: [Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/vianey-jean/Jean_Rabemanalina_13_Bank_API) En Préparation de soutenance :heavy_check_mark: :+1::hourglass: 
+- [x] :one::four: [Wealth Health - Faites passer une librairie jQuery vers React: PROJET À COMPLÉTER](https://github.com/vianey-jean/Jean_Rabemanalina_14_HRNet) En cours de Production :heavy_check_mark: :+1::hourglass: 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=synthwave) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
