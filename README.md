@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+m'appelle+Jean+Marie+RABEMANALINA;Je+suis+un+D%C3%A9veloppeur+Web+et+Web+Mobile;J'apprend+le+React.Js+pour+le+Front-end;Avec+OpenClassRooms+en+2022)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+m'appelle+Jean+Marie+RABEMANALINA;Je+suis+D%C3%A9veloppeur+Web%2C+Web+Mobile;J'apprend+le+React.Js+pour+Front-end;Avec+OpenClassRooms+en+2022)](https://git.io/typing-svg)
 
 ---
 🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
