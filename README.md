@@ -32,6 +32,7 @@ Connect with me:
 
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
+- [Email](vianey.jean1@gmail.com)
 
 ---
 
