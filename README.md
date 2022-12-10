@@ -28,7 +28,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ---
-Connect with me:
+Contact:
 
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
