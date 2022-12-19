@@ -55,8 +55,8 @@ Contact:
 - [x] :one::three: [Remede Agency - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/vianey-jean/Jean_Rabemanalina_13_Bank_API) :heavy_check_mark: :+1: **Validé** 
 - [x] :one::four: [Wealth Health - Faites passer une librairie jQuery vers React: PROJET À COMPLÉTER](https://github.com/vianey-jean/Jean_Rabemanalina_14_HRNet) En cours de Production :heavy_check_mark: :+1::hourglass: 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=radical) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 ---
 <p align="center">
