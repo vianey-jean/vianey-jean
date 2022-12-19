@@ -57,7 +57,6 @@ Contact:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=transparent) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact)](https://github.com/vianey-jean/github-readme-stats) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vianey-jean&repo=github-readme-stats)](https://github.com/vianey-jean/github-readme-stats) &nbsp;
  
 ---
 <p align="center">
