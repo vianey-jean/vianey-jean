@@ -37,11 +37,13 @@
 Contact:
 </p>
 
-<p align="center">
- <h6 align="center">profil sur Linkedin> </h6> <a href="https://www.linkedin.com/in/jean-marie-rabemanalina/" target="_blank" ></a>
+
+ <h6 align="center">profil sur Linkedin </h6> 
+ <p align="center"><a href="https://www.linkedin.com/in/jean-marie-rabemanalina/" target="_blank" ></a>
+ </p>
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 - Email : **vianey1.jean@gmail.com**
-</p>
+
 ---
 <p align="center">
  🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
