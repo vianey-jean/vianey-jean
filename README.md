@@ -4,13 +4,14 @@
 ---
 
  <p align="center">
-   <h1 align="center">😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
-    </h1>
+   <h4 align="center">😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
+    </h4>
     </p>
  
  ---
- Languages and Tools:
+ <p align="center">Languages and Tools:</p>
 
+<p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,7 +30,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+</p>
 ---
 Contact:
 
