@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5112F7&width=435&lines=Je+suis+Dipl%C3%B4mer+Bac+%2B3+;en+D%C3%A9veloppeur+Concepteur+Logiciel)](https://git.io/typing-svg)
 
 ---
-🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
 
  😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
  
