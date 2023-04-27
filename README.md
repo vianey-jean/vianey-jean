@@ -31,17 +31,21 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 </p>
----
-Contact:
 
+---
+<p align="center">
+Contact:
+</p>
+
+<p align="center">
 - [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 - Email : **vianey1.jean@gmail.com**
-
+</p>
 ---
-
+<p align="center">
  🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
-
+</p>
 ---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=dracula" alt vianey-jean />
