@@ -3,7 +3,7 @@
 ---
 🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
 
- 😃 Je me présente ** Jean Marie Vianey RABEMANALINA **, passionné d'informatique <br/>et plus particulièrement du développement web !
+ 😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
  
  ---
  Languages and Tools:
@@ -30,15 +30,14 @@
 ---
 Contact:
 
-- [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina-aa06571a3/)
+- [profil sur Linkedin](https://www.linkedin.com/in/jean-marie-rabemanalina/)
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
-- Email : **vianey.jean1@gmail.com**
+- Email : **vianey1.jean@gmail.com**
 
 ---
 
- 🔗 Et/ou visiter mon " CV " à cette [Lien](https://vianey-jean.github.io/CV_2021Github.io/).
+ 🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
 
-🖥️ Depuis le **13/01/2022**, j'ai le plaisir de suivre le parcours <br/>" **developpeur-dapplication-javascript-react** " chez OpenClassrooms disponible à cette [Lien](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react).
 
 - [x] :one: [Prenez en main votre formation front-end](Présentation "ok") :heavy_check_mark: :+1: **Validé**
 - [x] :two: [Booki - Transformez une maquette en site web avec HTML & CSS](https://vianey-jean.github.io/Rabe.Booki-github.io/ "Booki") :heavy_check_mark: :+1: **Validé**
