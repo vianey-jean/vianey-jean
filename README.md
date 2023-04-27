@@ -3,7 +3,10 @@
 </p>
 ---
 
- 😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
+ <p align="center">
+   <h1 align="center">😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
+    </h1>
+    </p>
  
  ---
  Languages and Tools:
