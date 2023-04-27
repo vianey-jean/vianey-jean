@@ -3,7 +3,7 @@
 ---
 🦸‍♂️: Rabemanalina Jean Marie Vianey : 🦸‍♂<br>
 
- 😃 Je me présente **Jean_Marie_Vianey_RABEMANALINA**, passionné d'informatique <br/>et plus particulièrement du développement web et mobile !
+ 😃 Je me présente ** Jean Marie Vianey RABEMANALINA **, passionné d'informatique <br/>et plus particulièrement du développement web !
  
  ---
  Languages and Tools:
