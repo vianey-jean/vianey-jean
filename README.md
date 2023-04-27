@@ -38,7 +38,9 @@ Contact:
  🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=dracula) &nbsp;
+<p align="center">
+  <img align=center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=dracula" alt vianey-jean />
+</p>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact)](https://github.com/vianey-jean/github-readme-stats) &nbsp;
