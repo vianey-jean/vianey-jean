@@ -1,6 +1,7 @@
 <p align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5112F7&width=435&lines=Je+suis+Dipl%C3%B4mer+Bac+%2B3+;en+D%C3%A9veloppeur+Concepteur+Logiciel)](https://git.io/typing-svg" alt="vianey-jean"
 </p>
+ 
 ---
 
  <p align="center">
@@ -9,6 +10,7 @@
     </p>
  
  ---
+ 
  <p align="center">Languages and Tools:</p>
 
 <p align="center">
@@ -33,6 +35,7 @@
 </p>
 
 ---
+
 <p align="center">
 Contact:
 </p>
@@ -43,20 +46,26 @@ Contact:
 <p align="center">
 <h6 align="center"> Profil sur Facebook: https://www.facebook.com/jeanmarievianey.rabemanalina </h6>
 </p>
- <p align="left">
+ <p align="center">
+ 
 - 📫 How to reach me **vianey1.jean@gmail.com**
+ 
  </p>
 
 ---
+
 <p align="center">
  🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
 </p>
+
 ---
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=dracula" alt vianey-jean />
 </p>
 
 ---
+
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact)](https://github.com/vianey-jean/github-readme-stats" alt="vianey-jean" />
  </p>
