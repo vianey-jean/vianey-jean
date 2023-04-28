@@ -56,7 +56,7 @@ Contact:
 ---
 
 <p align="center">
- 🔗 Et/ou visiter mon " Portfolio " à cette [Lien](https://beriziky.netlify.app/).
+ 🔗 Et/ou visiter mon " Portfolio " à cette Lien : https://beriziky.netlify.app/ .
 </p>
 
 ---
