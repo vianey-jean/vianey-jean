@@ -39,7 +39,7 @@ Contact:
 
 
  <h6 align="center">profil sur Linkedin </h6> 
- <p align="center"><a href="https://www.linkedin.com/in/jean-marie-rabemanalina/" target="_blank" ></a>
+ <p align="center">(https://www.linkedin.com/in/jean-marie-rabemanalina/)
  </p>
 - [profil sur Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)
 - Email : **vianey1.jean@gmail.com**
