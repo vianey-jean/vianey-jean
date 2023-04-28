@@ -46,7 +46,8 @@ Contact:
 <p align="center">
 <h6 align="center"> Profil sur Facebook: https://www.facebook.com/jeanmarievianey.rabemanalina </h6>
 </p>
- <p align="center">
+
+ <p align="left">
  
 - 📫 How to reach me **vianey1.jean@gmail.com**
  
