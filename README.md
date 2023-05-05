@@ -62,13 +62,13 @@ Contact:
 ---
 
 <p align="center">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=radical) "/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=radical "/>
 </p>
 
 ---
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact)](https://github.com/vianey-jean/github-readme-stats" alt="vianey-jean" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact) (https://github.com/vianey-jean/github-readme-stats" alt="vianey-jean" />
  </p>
 
 <!---
