@@ -61,15 +61,7 @@ Contact:
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=radical "/>
-</p>
 
----
-
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianey-jean&layout=compact) (https://github.com/vianey-jean/github-readme-stats" alt="vianey-jean" />
- </p>
 
 <!---
 vianey-jean/vianey-jean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
