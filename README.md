@@ -62,7 +62,7 @@ Contact:
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vianey-jean&show_icons=true&theme=dracula" alt="vianey-jean" />
+  <img align="center"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) />
 </p>
 
 ---
