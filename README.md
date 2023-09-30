@@ -5,7 +5,7 @@
 ---
 
  <p align="center">
-   <h4 align="center">😃 Je me présente Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
+   <h4 align="center">😃 Je me présente: Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
     </h4>
     </p>
  
