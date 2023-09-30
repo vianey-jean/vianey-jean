@@ -49,7 +49,7 @@ Contact:
 
  <p align="left">
  
-- 📫 How to reach me **vianey1.jean@gmail.com**
+- 📫 How to reach me: **vianey1.jean@gmail.com**
  
  </p>
 
