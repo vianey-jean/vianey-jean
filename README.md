@@ -1,69 +1,15 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+suis+Dipl%C3%B4mer++...;En+D%C3%A9veloppeur+Concepteur+Logiciel;Avec+OpenClassRooms+en+Bac+%2B3%2F4" alt="Typing SVG" /></a>
-</p>
- 
----
+<h1 align="center">🚀 Jean Marie Vianey RABEMANALINA</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Concepteur+Logiciel+Dipl%C3%B4m%C3%A9+%F0%9F%8E%93;Form%C3%A9+chez+OpenClassRooms+(Bac%2B3%2F4);Passionn%C3%A9+de+d%C3%A9veloppement+web+et+mobile+%F0%9F%92%BB" alt="Typing SVG" /> </a> </p>
+👋 Présentation
 
- <p align="center">
-   <h4 align="center">😃 Je me présente: Jean Marie Vianey RABEMANALINA , passionné d'informatique <br/>et plus particulièrement du développement web !
-    </h4>
-    </p>
- 
- ---
- 
- <p align="center">Languages and Tools:</p>
+💡 Je suis Jean Marie Vianey RABEMANALINA, passionné par l'informatique et spécialisé dans le développement web et logiciel. Je conçois des applications performantes, modernes et centrées sur l'utilisateur.
+🛠️ Compétences Techniques
+<p align="center"> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5" title="HTML5"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS3" title="CSS3"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" title="Redux"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" title="PHP"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" title="Git"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" alt="WordPress" title="WordPress"></code> </p>
+📢 Me contacter
 
-<p align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-</p>
+💼 LinkedIn
+📘 Facebook
+✉️ Email : vianey1.jean@gmail.com
+🌐 Portfolio
 
----
-
-<p align="center">
-Contact:
-</p>
-
-<p align="center">
- <h6 align="center"> Profil sur Linkedin: https://www.linkedin.com/in/jean-marie-rabemanalina/ </h6>
-</p>
-<p align="center">
-<h6 align="center"> Profil sur Facebook: https://www.facebook.com/jeanmarievianey.rabemanalina </h6>
-</p>
-
- <p align="left">
- 
-- 📫 How to reach me: **vianey1.jean@gmail.com**
- 
- </p>
-
----
-
-<p align="center">
- 🔗 Et/ou visiter mon " Portfolio " à cette Lien : https://beriziky.netlify.app/ .
-</p>
-
----
-
-
-
-<!---
-vianey-jean/vianey-jean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Découvrez mes projets ici : beriziky.netlify.app
+🙏 Merci pour votre visite sur mon profil ! N'hésitez pas à me contacter pour toute collaboration ou projet passionnant !
