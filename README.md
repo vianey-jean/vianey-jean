@@ -14,6 +14,6 @@
 🌐 [**Portfolio**](https://beriziky.netlify.app)  
 
 
-🔗 [**Découvrez mes projets ici :**] (beriziky.netlify.app)
+🔗 [**Découvrez mes projets ici :**](beriziky.netlify.app)
 #
  🙏 Merci pour votre visite sur mon profil ! N'hésitez pas à me contacter pour toute collaboration ou projet passionnant !
