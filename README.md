@@ -6,10 +6,13 @@
 <p align="center"> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML5" title="HTML5"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS3" title="CSS3"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" title="Redux"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP" title="PHP"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" title="Git"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" alt="WordPress" title="WordPress"></code> </p>
 <p align="center">📢 Me contacter</p>
 
-💼 LinkedIn
-📘 Facebook
-✉️ Email : vianey1.jean@gmail.com
-🌐 Portfolio
+## 📬 Me contacter
+
+[💼 LinkedIn](https://www.linkedin.com/in/jean-marie-rabemanalina)  
+[📘 Facebook](https://www.facebook.com/jeanmarievianey.rabemanalina)  
+✉️ **Email :** [vianey1.jean@gmail.com](mailto:vianey1.jean@gmail.com)  
+🌐 [**Portfolio**](https://beriziky.netlify.app)  
+
 
 🔗 Découvrez mes projets ici : beriziky.netlify.app
 🙏 Merci pour votre visite sur mon profil ! N'hésitez pas à me contacter pour toute collaboration ou projet passionnant !
